@@ -5,7 +5,6 @@
  */
 package simplecalculator;
 
-import java.util.Scanner;
 import myclasses.App;
 
 /**
